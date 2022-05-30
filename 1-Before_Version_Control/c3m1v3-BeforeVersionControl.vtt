@@ -1,0 +1,184 @@
+WEBVTT
+
+1
+00:00:00.000 --> 00:00:05.808
+[MUSIC]
+
+2
+00:00:08.477 --> 00:00:11.830
+Have you ever worked on a project
+that was developing over time?
+
+3
+00:00:11.830 --> 00:00:15.090
+So you occasionally created copies of
+the work in case you wanted to go back to
+
+4
+00:00:15.090 --> 00:00:15.960
+an earlier version.
+
+5
+00:00:17.250 --> 00:00:18.850
+Maybe you were working in a team and
+
+6
+00:00:18.850 --> 00:00:21.410
+every day you'd email a part of
+the work to the rest of the team.
+
+7
+00:00:21.410 --> 00:00:24.610
+And then the other members on your
+team would add their own work, and
+
+8
+00:00:24.610 --> 00:00:25.790
+send it out to the whole team too.
+
+9
+00:00:27.310 --> 00:00:31.430
+Or maybe you've worked on a very complex
+project, that kept changing directions.
+
+10
+00:00:31.430 --> 00:00:34.180
+And you felt that some of the things
+that got removed one day,
+
+11
+00:00:34.180 --> 00:00:36.310
+might have to be added later on.
+
+12
+00:00:36.310 --> 00:00:38.920
+So anytime you're about to
+delete a significant part,
+
+13
+00:00:38.920 --> 00:00:41.249
+you made a copy of the whole thing,
+just in case.
+
+14
+00:00:42.310 --> 00:00:46.620
+If any of this sounds familiar, you've
+already worked on the most primitive form
+
+15
+00:00:46.620 --> 00:00:50.070
+of version control,
+keeping historical copies.
+
+16
+00:00:50.070 --> 00:00:54.210
+These copies let you see what the project
+was like before, and go back to that
+
+17
+00:00:54.210 --> 00:00:58.050
+version if you end up deciding that
+the latest changes were wrong.
+
+18
+00:00:58.050 --> 00:01:01.630
+They also let you see the progress
+of the changes over time, and
+
+19
+00:01:01.630 --> 00:01:04.830
+maybe even help you understand
+why a change was made.
+
+20
+00:01:04.830 --> 00:01:09.570
+We say that this is primitive because
+it's very manual and not very detailed.
+
+21
+00:01:09.570 --> 00:01:12.200
+First, you need to
+remember to make the copy.
+
+22
+00:01:12.200 --> 00:01:14.890
+Second, you usually make
+a copy of the whole thing,
+
+23
+00:01:14.890 --> 00:01:16.749
+even if you're only
+changing one small part.
+
+24
+00:01:17.760 --> 00:01:21.361
+And third, even if you're emailing
+your changes to your colleagues,
+
+25
+00:01:21.361 --> 00:01:25.202
+it might be hard to figure out at the end
+who did what, and more importantly,
+
+26
+00:01:25.202 --> 00:01:26.055
+why they did it.
+
+27
+00:01:26.055 --> 00:01:30.137
+But that said, the principle behind
+version control is the same.
+
+28
+00:01:30.137 --> 00:01:33.660
+It lets us keep track of
+the changes in our files.
+
+29
+00:01:33.660 --> 00:01:37.810
+These files can be code,
+images, configuration, or
+
+30
+00:01:37.810 --> 00:01:41.790
+even a video editing project,
+whatever it is you're working with.
+
+31
+00:01:41.790 --> 00:01:46.120
+Throughout this course, we'll see the many
+ways that Git helps us keep track of our
+
+32
+00:01:46.120 --> 00:01:51.750
+changes, and also how we can use it to
+collaborate with others or avert changes.
+
+33
+00:01:51.750 --> 00:01:55.020
+We'll use a bunch of terms that have
+special meanings in the world of version
+
+34
+00:01:55.020 --> 00:01:58.350
+control, but
+don't let those intimidate you.
+
+35
+00:01:58.350 --> 00:02:03.430
+In the end, all we're doing is having
+better control over our historical copies.
+
+36
+00:02:03.430 --> 00:02:08.390
+So, say you have two copies of the same
+code made at different points in time.
+
+37
+00:02:08.390 --> 00:02:09.170
+How can you compare them?
+
+38
+00:02:10.190 --> 00:02:12.730
+Hop on over to the next video and
+you'll find out.
